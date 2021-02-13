@@ -1,0 +1,6 @@
+D:\Blogging\Go-Git\Retract-Go-Module\Retract-Go-Module-Versions>go1.16rc1 version
+go version go1.16rc1 windows/amd64
+D:\Blogging\Go-Git\Retract-Go-Module\Retract-Go-Module-Versions>go1.16rc1 mod init github.com/arungudelli/Retract-Go-Module-Versions
+go: creating new go.mod: module github.com/arungudelli/Retract-Go-Module-Versions
+go: to add module requirements and sums:
+        go mod tidy
