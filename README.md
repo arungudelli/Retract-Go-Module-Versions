@@ -3,4 +3,4 @@
 Learn how to retract Go module versions in Go 1.16.
 
 Tutorial For this Demo
-[https://golangtutorial.dev/tips/retract-go-module-versions/](https://golangtutorial.dev/tips/retract-go-module-versions/).
+<a href="https://golangtutorial.dev/tips/retract-go-module-versions/" target="_blank">https://golangtutorial.dev/tips/retract-go-module-versions/</a>
